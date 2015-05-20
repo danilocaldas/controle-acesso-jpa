@@ -1,0 +1,1 @@
+Projeto básico que demonstra um CRUD usando JPA e Controle de acesso de usuários ao sistema.
